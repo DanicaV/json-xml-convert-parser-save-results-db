@@ -1,0 +1,2 @@
+# json-xml-convert-parser-save-results-db
+C# WPF example which enables parsing of a XML or JSON file chosen through Open File dialog box. Parsing results are shown in a text box. There is a button which enables saving parsing results to database. Solution is based on MVVM patern (Prism Framework), Entity Framework Code Firs for the database. Only JSON parser is sed in a solution, because XML file is converted in JSON after checking a filetype.
